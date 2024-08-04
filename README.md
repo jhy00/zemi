@@ -1,3 +1,4 @@
+![屏幕截图 2024-08-04 184732](https://github.com/user-attachments/assets/2a20e3c7-4a7e-4557-bf6c-6f485b97cd79)
 eye.pt --- 100 training sets from MPIIGaze dataset.
 Appearance-based Gaze Estimation in the Wild, X. Zhang, Y. Sugano, M. Fritz and A. Bulling, Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June, p.4511-4520, (2015). 
 ![image](https://github.com/user-attachments/assets/d0f3a09d-2374-4a79-8fc9-699691e0075c)
