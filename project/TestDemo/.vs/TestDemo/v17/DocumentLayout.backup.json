@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PLD\\Project\\CSharp300_8\\TestDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6853669-439F-4B0F-A054-DFB35BB7A07A}|TestDemo.csproj|d:\\pld\\project\\csharp300_8\\testdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6853669-439F-4B0F-A054-DFB35BB7A07A}|TestDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6853669-439F-4B0F-A054-DFB35BB7A07A}|TestDemo.csproj|D:\\PLD\\Project\\CSharp300_8\\TestDemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6853669-439F-4B0F-A054-DFB35BB7A07A}|TestDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6853669-439F-4B0F-A054-DFB35BB7A07A}|TestDemo.csproj|d:\\pld\\project\\csharp300_8\\testdemo\\globaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6853669-439F-4B0F-A054-DFB35BB7A07A}|TestDemo.csproj|solutionrelative:globaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6853669-439F-4B0F-A054-DFB35BB7A07A}|TestDemo.csproj|d:\\pld\\project\\csharp300_8\\testdemo\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6853669-439F-4B0F-A054-DFB35BB7A07A}|TestDemo.csproj|solutionrelative:configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6853669-439F-4B0F-A054-DFB35BB7A07A}|TestDemo.csproj|d:\\pld\\project\\csharp300_8\\testdemo\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6853669-439F-4B0F-A054-DFB35BB7A07A}|TestDemo.csproj|solutionrelative:configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalData.cs",
+              "DocumentMoniker": "D:\\PLD\\Project\\CSharp300_8\\TestDemo\\GlobalData.cs",
+              "RelativeDocumentMoniker": "GlobalData.cs",
+              "ToolTip": "D:\\PLD\\Project\\CSharp300_8\\TestDemo\\GlobalData.cs",
+              "RelativeToolTip": "GlobalData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:53:15.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\PLD\\Project\\CSharp300_8\\TestDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PLD\\Project\\CSharp300_8\\TestDemo\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:17:06.575Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PLD\\Project\\CSharp300_8\\TestDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PLD\\Project\\CSharp300_8\\TestDemo\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAJ8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:25:00.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\PLD\\Project\\CSharp300_8\\TestDemo\\Configuration.cs",
+              "RelativeDocumentMoniker": "Configuration.cs",
+              "ToolTip": "D:\\PLD\\Project\\CSharp300_8\\TestDemo\\Configuration.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Configuration.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:55:54.532Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\PLD\\Project\\CSharp300_8\\TestDemo\\Configuration.cs",
+              "RelativeDocumentMoniker": "Configuration.cs",
+              "ToolTip": "D:\\PLD\\Project\\CSharp300_8\\TestDemo\\Configuration.cs",
+              "RelativeToolTip": "Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:23:44.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
